@@ -38,3 +38,4 @@ permissions:
       default: true
      economyjob.command.job.me:
       description: Allows player to use command that allows to see its job
+M15X HERE
